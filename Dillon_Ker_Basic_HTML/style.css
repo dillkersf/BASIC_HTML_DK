@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(129, 7, 7);
+    color: rgb(255, 247, 0);
+    font-size: 1.2rem;
+    font-family: urban;
+line-height: 2rem;
+width: 40%; margin: auto;
+text-align: middle;
+@font-face {
+    font-family: urban ;
+    src: url(fonts/URBAN_HOOK-UPZ.ttf);
+}
